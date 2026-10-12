@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 - 🎓 B.Tech CSE (8th Semester)
-- 🧑‍💻 Solved **3800+ LeetCode problems**
+- 🧑‍💻 Solved **4000+ LeetCode problems**
 - ⚡ Passionate about building **production-ready SaaS apps** with real payments, AI integrations, and DevOps
 - 🔥 Tech Stack: **MERN, PERN, Java Full Stack, DevOps**
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 DSA Mastery (3900+ LeetCode)
+## 📈 DSA Mastery (4000+ LeetCode)
 
 ✅ **Core Patterns Mastered:**
 
